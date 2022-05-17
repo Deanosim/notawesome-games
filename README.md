@@ -1,6 +1,6 @@
-# notawesome-games [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Notawesome Games [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> About
+> A list of scummy/shady game studios, publishers, and games
 
 
 ## Contents
