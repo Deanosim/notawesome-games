@@ -5,23 +5,21 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Publishers](#publishers)
+- [Developers-Studios](#developers-studios)
+- [Games](#games)
 
+## Publishers
 
-## Section
+- [List item](http://example.com)
 
-About this section. Optional. Keep this short and focus on the list.
+### Developers-Studios
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
+#### Games
 
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
 - [List item](http://example.com)
 
 
